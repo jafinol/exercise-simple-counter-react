@@ -43,8 +43,7 @@ export function Home() {
 	return (
 		<div className="text-center mt-5">
 			<div className="row justify-content-center bg-secondary mr-5  ml-5">
-				<div
-					className="col-1 card bg-dark mr-2 mt-1 mb-1"
+				<div className="col-1 card bg-dark mr-2 mt-1 mb-1"
 					style={{ width: " 18rem" }}>
 					<h5 className="card-title"></h5>
 					<h1 style={{ color: "white" }}>
@@ -52,45 +51,38 @@ export function Home() {
 					</h1>
 				</div>
 
-				<div
-					className="col-1 card bg-dark mr-2  mt-1 mb-1"
+				<div className="col-1 card bg-dark mr-2  mt-1 mb-1"
 					style={{ width: " 18rem" }}>
 					<h5 className="card-title"></h5>
 					<h1 style={{ color: "white" }}>{time6}</h1>
 				</div>
-				<div
-					className="col-1 card bg-dark mr-2 mt-1 mb-1"
+				<div className="col-1 card bg-dark mr-2 mt-1 mb-1"
 					style={{ width: " 18rem" }}>
 					<h5 className="card-title"></h5>
 					<h1 style={{ color: "white" }}>{time6}</h1>
 				</div>
-				<div
-					className="col-1 card bg-dark mr-2 mt-1 mb-1"
+				<div className="col-1 card bg-dark mr-2 mt-1 mb-1"
 					style={{ width: " 18rem" }}>
 					<h5 className="card-title"></h5>
 					<h1 style={{ color: "white" }}>{time5}</h1>
 				</div>
-				<div
-					className="col-1 card bg-dark mr-2 mt-1 mb-1"
+				<div className="col-1 card bg-dark mr-2 mt-1 mb-1"
 					style={{ width: " 18rem" }}>
 					<h5 className="card-title"></h5>
 					<h1 style={{ color: "white" }}>{time4}</h1>
 				</div>
-				<div
-					className="col-1 card bg-dark mr-2 mt-1 mb-1"
+				<div className="col-1 card bg-dark mr-2 mt-1 mb-1"
 					style={{ width: " 18rem" }}>
 					<h5 className="card-title"></h5>
 					<h1 style={{ color: "white" }}>{time3}</h1>
 				</div>
-				<div
-					className="col-1 card bg-dark mr-2 mt-1 mb-1"
+				<div className="col-1 card bg-dark mr-2 mt-1 mb-1"
 					style={{ width: " 18rem" }}>
 					<h5 className="card-title"></h5>
 					<h1 style={{ color: "white" }}>{time2}</h1>
 				</div>
 
-				<div
-					className="col-1 card bg-dark mr-2 mt-1 mb-1"
+				<div className="col-1 card bg-dark mr-2 mt-1 mb-1"
 					style={{ width: " 18rem" }}>
 					<h5 className="card-title"></h5>
 					<h1 style={{ color: "white" }}>{time}</h1>
